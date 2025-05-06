@@ -2,7 +2,7 @@
 <h3>Project Description:</h3>
 <h4>
   i. A well known food delivery web application. <br>
-  ii. Manual Test case. <br>
+  ii. Manual Testing. <br>
   iii. Test Scenario. <br>
   iv. Test case. <br>
   v. Bug reprort <br>
