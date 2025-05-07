@@ -1,4 +1,5 @@
 <h3>Project Name: Foodi</h3>
+<p>A practise project by Akshoy Kumer Dey</p>
 <h3>Project Description:</h3>
 <h4>
   i. A well known food delivery web application. <br>
